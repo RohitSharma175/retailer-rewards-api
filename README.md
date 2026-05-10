@@ -35,7 +35,7 @@ A Spring Boot REST API that calculates customer reward points based on purchase 
 ### Run the application
 
 ```bash
-git clone https://github.com/<your-username>/retailer-rewards-api.git
+git clone https://github.com/RohitSharma175/retailer-rewards-api.git
 cd retailer-rewards-api
 mvn spring-boot:run
 ```
